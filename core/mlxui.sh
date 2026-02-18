@@ -104,7 +104,7 @@ install_panels() {
         cd "$panel_dir" || exit
         
         echo "Cloning repository for panel $i..."
-        git clone https://github.com/MHSanaEi/3x-ui.git .
+        git clone https://github.com/AghayeCoder/tx-ui.git .
         
         echo "Starting panel $i with the following ports:"
         echo "Panel Port: $panel_port"
