@@ -9,7 +9,7 @@ NC='\033[0m' # No Color
 VERSION='2.3.1'
 INSTALL_DIR='/root/xui-assistant'
 BIN_PATH='/usr/local/bin/xui-assis'
-REPO_URL='https://github.com/dev-ir/xui-assistant.git'
+REPO_URL='https://github.com/htzserv/xui-assistant.git'
 
 # Clean previous installation
 rm -rf "${INSTALL_DIR}"
