@@ -6,7 +6,7 @@
 ## 📥 Install & Upgrade
 
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/dev-ir/xui-assistant/master/installer.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/htzserv/xui-assistant/master/installer.sh)
 ```
 
 ## 🚀 Features
